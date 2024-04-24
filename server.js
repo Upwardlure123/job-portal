@@ -34,7 +34,8 @@ const options = {
     },
     servers:[
         {
-            url: "http://localhost:8080"
+            //url: "http://localhost:8080"
+            url: "https://job-portal-app-libg.onrender.com"
         }
      ]
     },
